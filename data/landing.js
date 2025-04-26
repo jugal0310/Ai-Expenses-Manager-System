@@ -89,23 +89,23 @@ export const howItWorksData = [
 export const testimonialsData = [
   {
     name: "Jugal prajapati",
-    role: "Team Member",
+    role: "Development & Technical Lead",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
     quote:
-      "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
+      "Focused on building and coding the AI Expenses Manager, ensuring all technical parts function smoothly.",
   },
   {
     name: "Ved patel",
-    role: "Team Member",
+    role: "Design & Research Lead",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
     quote:
-      "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
+      "Worked on designing the app's interface and researching user needs to create a simple, user-friendly experience.",
   },
   {
     name: "Aman Agarwal",
-    role: "Team Member",
+    role: "Testing & Documentation Lead",
     image: "https://randomuser.me/api/portraits/men/74.jpg",
     quote:
-      "I recommend Welth to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
+      "Handled testing of the app to find and fix bugs, and created clear documentation for users and future improvements.",
   },
 ];
